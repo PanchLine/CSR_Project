@@ -131,6 +131,7 @@
             this.Controls.Add(this.labelLogin);
             this.Controls.Add(this.labelTitle);
             this.Name = "AutorizationForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Авторизация";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).EndInit();
             this.ResumeLayout(false);

@@ -142,6 +142,7 @@
             this.Controls.Add(this.buttonUsers);
             this.Controls.Add(this.pictureBoxLogo);
             this.Name = "MainMenu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Главное меню";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).EndInit();
             this.ResumeLayout(false);
