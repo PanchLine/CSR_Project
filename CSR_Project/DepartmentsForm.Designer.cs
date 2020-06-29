@@ -81,7 +81,7 @@
             this.labelDepartments.Name = "labelDepartments";
             this.labelDepartments.Size = new System.Drawing.Size(157, 17);
             this.labelDepartments.TabIndex = 43;
-            this.labelDepartments.Text = "Намиенование отдела";
+            this.labelDepartments.Text = "Наименование отдела";
             // 
             // buttonDel
             // 
